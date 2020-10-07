@@ -1,0 +1,6 @@
+C:\Arbeid\eToto\code\LossLimitTestbench\bin\Debug\LossLimitTestbench.exe.config
+C:\Arbeid\eToto\code\LossLimitTestbench\bin\Debug\LossLimitTestbench.exe
+C:\Arbeid\eToto\code\LossLimitTestbench\bin\Debug\LossLimitTestbench.pdb
+C:\Arbeid\eToto\code\LossLimitTestbench\obj\Debug\LossLimitTestbench.csprojAssemblyReference.cache
+C:\Arbeid\eToto\code\LossLimitTestbench\obj\Debug\LossLimitTestbench.exe
+C:\Arbeid\eToto\code\LossLimitTestbench\obj\Debug\LossLimitTestbench.pdb

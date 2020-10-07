@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LossLimitTestbench", "LossLimitTestbench.csproj", "{283205E9-350B-441A-9CBC-67B76C93ED4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283205E9-350B-441A-9CBC-67B76C93ED4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283205E9-350B-441A-9CBC-67B76C93ED4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283205E9-350B-441A-9CBC-67B76C93ED4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283205E9-350B-441A-9CBC-67B76C93ED4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA23CF39-CE45-4C42-89C1-74CD57E6FD43}
+	EndGlobalSection
+EndGlobal
